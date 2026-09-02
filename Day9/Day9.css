@@ -1,0 +1,24 @@
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;   
+}
+
+.buttons{
+  display: flex;
+  justify-content: center;
+  align-items: center;   
+}
+
+button{
+  margin-top: 200px;
+  padding: 30px;
+  margin-left: 10px;
+  margin-right: 10px;
+  background-color: rgb(178, 212, 201);
+}
+
+button:hover{
+  background-color: rgb(111, 163, 145);
+  color: aliceblue;
+}
